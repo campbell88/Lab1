@@ -28,10 +28,10 @@ namespace Lab_1___Area_and_Perimeter_of_GC_Rooms
                 
 
                 Console.WriteLine("Area of room is {0} and Perimeter of room is {1} and Volume is {2}", area, perimeter, volume);
-                // where to add '\n' to add a line up above
-                Console.WriteLine("Type YES to continue"); //need help with my do loop
+                
+                Console.WriteLine("Type YES to continue"); 
 
-                if (Console.ReadLine().ToUpper() == "YES")             
+                if (Console.ReadLine().ToUpper() == "YES") // removed the semicolon          
                     askToContinue = true;
                 
             } while (askToContinue);
