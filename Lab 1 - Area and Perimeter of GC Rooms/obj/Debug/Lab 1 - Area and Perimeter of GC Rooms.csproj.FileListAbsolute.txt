@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\Lab 1 - Area and Perimeter of GC Rooms\Lab 1 - Area and Perimeter of GC Rooms\bin\Debug\Lab 1 - Area and Perimeter of GC Rooms.exe.config
+c:\users\home\documents\visual studio 2015\Projects\Lab 1 - Area and Perimeter of GC Rooms\Lab 1 - Area and Perimeter of GC Rooms\bin\Debug\Lab 1 - Area and Perimeter of GC Rooms.exe
+c:\users\home\documents\visual studio 2015\Projects\Lab 1 - Area and Perimeter of GC Rooms\Lab 1 - Area and Perimeter of GC Rooms\bin\Debug\Lab 1 - Area and Perimeter of GC Rooms.pdb
+c:\users\home\documents\visual studio 2015\Projects\Lab 1 - Area and Perimeter of GC Rooms\Lab 1 - Area and Perimeter of GC Rooms\obj\Debug\Lab 1 - Area and Perimeter of GC Rooms.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\Lab 1 - Area and Perimeter of GC Rooms\Lab 1 - Area and Perimeter of GC Rooms\obj\Debug\Lab 1 - Area and Perimeter of GC Rooms.exe
+c:\users\home\documents\visual studio 2015\Projects\Lab 1 - Area and Perimeter of GC Rooms\Lab 1 - Area and Perimeter of GC Rooms\obj\Debug\Lab 1 - Area and Perimeter of GC Rooms.pdb
